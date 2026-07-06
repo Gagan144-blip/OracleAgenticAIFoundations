@@ -35,4 +35,10 @@ Termination Conditions:
    - Infinite loops(agent never decides it's done)
    - Hallucined tool calls(Calling tools that don't exist)
    - Cost explosion(too many LLM API calls)
+### Example:
+   The Agent Execution Loop:
+
+   <img width="1051" height="529" alt="image" src="https://github.com/user-attachments/assets/64a7d3a6-1b67-408d-8217-b32f718b1bc3" />
+
+
 
