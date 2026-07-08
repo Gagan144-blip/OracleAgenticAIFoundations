@@ -79,7 +79,3 @@ Through this project I learned:
 - Prompt handling
 - API integration
 - Building command-line AI applications
-
-## 👩‍💻 Author
-
-**Gaganpreet Kaur**
