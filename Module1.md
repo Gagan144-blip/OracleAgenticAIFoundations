@@ -89,3 +89,35 @@ po
 <img width="768" height="294" alt="image" src="https://github.com/user-attachments/assets/dedd1241-5a91-445a-973a-13e769cba5f2" />
 
 ## Steps to creating any AI agent: 
+
+<img width="961" height="105" alt="image" src="https://github.com/user-attachments/assets/9954c52c-4f09-430b-b0ea-218fd90549f1" />
+
+### Python Essentials You'll Need:
+
+<img width="702" height="308" alt="image" src="https://github.com/user-attachments/assets/3208e21b-d855-4325-8a81-2c650e3c9b8c" />
+
+### Anatomy of an Agent Tool:
+
+<img width="756" height="325" alt="image" src="https://github.com/user-attachments/assets/56356329-e970-4339-90a0-476051408229" />
+
+### Step 2: Build the Agent's toolbox:
+
+<img width="572" height="328" alt="image" src="https://github.com/user-attachments/assets/e9353f62-b014-42b3-9601-61ee2ed48181" />
+
+### Step 3: Agent's Secret: a reasoning loop:
+
+<img width="511" height="334" alt="image" src="https://github.com/user-attachments/assets/ba103deb-d21e-496a-acca-f8c2f58b4850" />
+
+### Example : Question: "What is 42 + 58?"
+
+<img width="508" height="226" alt="image" src="https://github.com/user-attachments/assets/3db2b42d-eea1-45e2-b045-31f0aa4368f5" />
+
+### Question : Rectangle Area + square root:
+
+<img width="547" height="297" alt="image" src="https://github.com/user-attachments/assets/4088cada-386d-4c82-ab74-affe2a0f3667" />
+
+
+
+
+
+
