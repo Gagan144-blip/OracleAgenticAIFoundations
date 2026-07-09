@@ -116,6 +116,13 @@ po
 
 <img width="547" height="297" alt="image" src="https://github.com/user-attachments/assets/4088cada-386d-4c82-ab74-affe2a0f3667" />
 
+### Real - world Agent Attacks: These are Already Happend:
+
+<img width="768" height="310" alt="image" src="https://github.com/user-attachments/assets/04028f72-34f4-490e-89b5-c519c683669e" />
+### AI agent Threat Model : What Can Go Wrong:
+- Prompt Injection: Attckers ijacks AI agent vuia craf
+
+
 
 
 
