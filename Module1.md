@@ -119,8 +119,14 @@ po
 ### Real - world Agent Attacks: These are Already Happend:
 
 <img width="768" height="310" alt="image" src="https://github.com/user-attachments/assets/04028f72-34f4-490e-89b5-c519c683669e" />
+
 ### AI agent Threat Model : What Can Go Wrong:
-- Prompt Injection: Attckers ijacks AI agent vuia craf
+
+<img width="594" height="304" alt="image" src="https://github.com/user-attachments/assets/f76751dd-d4eb-40e2-ac08-0a9442035b9f" />
+
+### Defence In depth : Layered Gaurdrails Architecture: 
+
+<img width="708" height="329" alt="image" src="https://github.com/user-attachments/assets/05cd3f05-eace-44a4-a761-f522dba12890" />
 
 
 
