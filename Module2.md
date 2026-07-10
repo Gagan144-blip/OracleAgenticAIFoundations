@@ -68,12 +68,34 @@ Tools are functions that an LLM can call during its reasoning process. They Exte
 - Code Execution: Run python code for calculaions
 - Custom APIs: call any external service or endpoint
 
-### 
+### LangChain under the hood :
+1. User runs the Python Code
 
+   <img width="712" height="312" alt="image" src="https://github.com/user-attachments/assets/5c8e807b-5fb6-4a44-b948-38502d076cb4" />
+   
+2. LangChain calls Model API
+  LangChain calls the Model API with user message and availible tools:
+   - Messages : Conversation so far.
+   - Tools : the list of functions model is allowed to call.
+   - langchain generated tool schemas from @tool functions.
 
+    <img width="308" height="355" alt="image" src="https://github.com/user-attachments/assets/5af216b3-f8b5-4fb9-9f5e-b3ca383c0207" />
 
+3. Model Returns a Tool Call #1
+   The model sees the question and decides:
+   - First, I need to multiply 15 by 8.
+   - Then I need to divide that result by 3.
+   - but the model cannot execute Python itself. So, it returns a Tool Call Request.
+   - Conceptually, the first response might look like this:
 
+     <img width="328" height="219" alt="image" src="https://github.com/user-attachments/assets/81b8705a-5446-47f1-b1fa-c6b31a3d673a" />
 
+  - Content: " " : No text answer yet, model wants an action
+  - tool_calls: Structured request for a function call
+  - name: "multiply" : Which tool to invoke
+  - Arguments : {"a" : 15, "b": 8} - parsed by your app
+
+     
 
 
 
