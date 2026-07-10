@@ -56,6 +56,21 @@ The "Chain" in LangChain. Pipe data through a sequence of steps.
 
 <img width="737" height="280" alt="image" src="https://github.com/user-attachments/assets/81ef9eb6-9cb9-48d9-aea9-2ad75602a3a0" />
 
+### Build your first Agent using LangChain:
+### what makes An AI Agent?
+
+<img width="722" height="252" alt="image" src="https://github.com/user-attachments/assets/179f2092-64f9-43ec-b188-cca09daf5f44" />
+
+### Tools -Giving LLMs Superpowers:
+Tools are functions that an LLM can call during its reasoning process. They Extend the model Beyond text generattion into real - world actions.
+- Web search : Look up real-time information online
+- Database Query : Read/Write data in SQL or NoSQL
+- Code Execution: Run python code for calculaions
+- Custom APIs: call any external service or endpoint
+
+### 
+
+
 
 
 
