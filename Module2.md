@@ -95,7 +95,21 @@ Tools are functions that an LLM can call during its reasoning process. They Exte
   - name: "multiply" : Which tool to invoke
   - Arguments : {"a" : 15, "b": 8} - parsed by your app
 
-     
+4. LangChain interprets the response
 
+   LangChain reads the response and notices:
+   - LLM did not give a final natural-language answer yet. instead, it asked for a tool call.
+     * Is there a text answer?
+       No -> content is empty
+     * Are there tool_calls?
+       yes -> tool call detected
+
+    LanChain extracts three pieces of info:
+    - Concpetually, LangChain does something like this:
+
+      <img width="314" height="174" alt="image" src="https://github.com/user-attachments/assets/6ff67057-d793-4adf-bdfb-4eed70733078" />
+
+### LangChain maps Tool name to real Python function reference
+internally, LangChain maintains a registry of tools like this:
 
 
