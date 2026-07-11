@@ -111,5 +111,11 @@ Tools are functions that an LLM can call during its reasoning process. They Exte
 
 ### LangChain maps Tool name to real Python function reference
 internally, LangChain maintains a registry of tools like this:
+  
+  <img width="664" height="313" alt="image" src="https://github.com/user-attachments/assets/15237510-be89-42c9-88c9-2aa558592bc2" />
+  
+5. LangChain executes the Python Function (Multiply)
+   
+
 
 
