@@ -121,7 +121,45 @@ internally, LangChain maintains a registry of tools like this:
    
    <img width="680" height="284" alt="image" src="https://github.com/user-attachments/assets/393136e1-92a6-4dba-900c-070794d246d0" />
    
+6. LangChain sends the Tool #1 result back
+
+   <img width="802" height="427" alt="image" src="https://github.com/user-attachments/assets/dabf7475-5356-459e-823e-7ce3b0f5c396" />
+  
+7. Model reasons and reqests Tools #2
+The model sees result = 120 and knows it still needs to divide by 3.
+LLM Reasoning:
+"15 x 8 = 120 , now i need 120/3. Let me call divide"
+
+<img width="692" height="262" alt="image" src="https://github.com/user-attachments/assets/b67d30f3-c796-48a8-8d2a-6896aa813e33" />
+
+8. LangChain (interprets) and executes Python Function #2
+   
+9. LangCain Returns Tool #2 result
+
+   <img width="759" height="373" alt="image" src="https://github.com/user-attachments/assets/8836cdde-0073-4a57-9227-fa426a9186fe" />
+
+10.Model generates final answer
+
+<img width="762" height="370" alt="image" src="https://github.com/user-attachments/assets/6fda80cd-1709-44fb-8e7a-07578e721336" />
+
+11. Python prints the result:
+    LangChain returns the result object,and your code prints the final answer.
+
+### What LangChain hides from you
+agent.invoke() is one line - but there is a LOT of machinery behind it.
+
+<img width="773" height="312" alt="image" src="https://github.com/user-attachments/assets/232b72c4-524a-4e38-b6af-8781de00bb4d" />
 
 
+<img width="485" height="434" alt="image" src="https://github.com/user-attachments/assets/b01c959d-3911-46f1-8ea2-20da290bd08d" />
+
+
+
+
+
+    
+
+
+   
 
 
