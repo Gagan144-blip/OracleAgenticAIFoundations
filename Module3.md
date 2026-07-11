@@ -15,6 +15,22 @@ M: no. of tools
 
 ### MCP Core Components:
 - Core Primitives:
-  <img width="742" height="306" alt="image" src="https://github.com/user-attachments/assets/54200e65-bd24-45f8-a52e-ede1dc474f1b" />
+ <img width="725" height="352" alt="image" src="https://github.com/user-attachments/assets/82dd6e31-5125-44fb-ac12-54f5f3b9b865" />
 
-- 
+### The MCP Connection Lifecycle:
+
+<img width="765" height="183" alt="image" src="https://github.com/user-attachments/assets/c5740305-135f-42fd-b2dd-d599e5129480" />
+
+- MCP uses JSON_RPC 2.0
+  * JSON_RPC messages include:
+  * jsonprc ("always 2.0")
+  * id(used to match requests and responses, when applicable).
+  * One of: method (request), result(success), or error(failure).
+  * in most cases, frameworks like FastMCP and LangChain handle this for you - but understanding the structure helps with debugging.
+    
+  <img width="556" height="217" alt="image" src="https://github.com/user-attachments/assets/5cd203ad-b607-4b01-b00c-5e74a9265166" />
+
+### MCP Method #1: toos/list
+
+
+    
