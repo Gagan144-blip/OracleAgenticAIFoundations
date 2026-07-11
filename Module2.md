@@ -116,7 +116,9 @@ internally, LangChain maintains a registry of tools like this:
 
 
 5. LangChain executes the Python Function (Multiply)
+
      Real code runs on your machine - this is where reasoning becomes action.
+   
    <img width="680" height="284" alt="image" src="https://github.com/user-attachments/assets/393136e1-92a6-4dba-900c-070794d246d0" />
    
 
