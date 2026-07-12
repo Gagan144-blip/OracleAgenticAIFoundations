@@ -201,14 +201,19 @@ async def main():
     # ------------------------------------------------------------
 
     async def run_agent(question: str):
-        """Run the agent and print the execution trace."""
+        """Run the agent and print the execution trace.
+        """
 
         print(f"User:{question}")
         print("=" * 50)
 
         result = await agent.ainvoke(
             {   
-                "messages": [("user", question)]
+                "messages": [
+                    ("system", "Reply in plain text only. Do not use Markdown or LaTeX."),
+                    ("user", question)
+                    ]
+                
         })
     
         for msg in result["messages"]:
