@@ -89,6 +89,36 @@ For our math Example(multiply, divide), MCP is overkill.A local Python functon i
 <img width="669" height="234" alt="image" src="https://github.com/user-attachments/assets/aa8dcd7c-3cad-4ec3-b27c-e2fbb20e4caa" />
 
 
+### Real World MCP example:
+-  From Sandbox to Real World MCP
+
+  <img width="749" height="312" alt="image" src="https://github.com/user-attachments/assets/f66f257f-95b8-4d0a-bd83-8d7e8f6166dd" />
+
+- Different Bounderies - Math vs Oracle Usage MCP server
+
+<img width="650" height="290" alt="image" src="https://github.com/user-attachments/assets/1f7085bb-0eac-46bc-89dd-12ab2406fa21" />
+
+- OCI Usage MCP Server Details:
+
+  <img width="702" height="162" alt="image" src="https://github.com/user-attachments/assets/896dffe0-de41-4b4f-8ca2-512d5375bebc" />
+
+<img width="741" height="140" alt="image" src="https://github.com/user-attachments/assets/51aa59a9-a418-4b19-91b8-290f3416a18f" />
+
+
+### Real world MCP Server
+
+<img width="345" height="343" alt="image" src="https://github.com/user-attachments/assets/2257d1e2-f324-4714-ae13-abb87235adaa" />
+
+
+
+
+
+
+  
+
+  
+
+  
 
 
 
