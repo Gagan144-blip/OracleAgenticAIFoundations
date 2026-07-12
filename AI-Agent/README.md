@@ -69,6 +69,10 @@ python app.py
 
 ![alt text](Screenshot_20260707_201252-1.png)
 
+<img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/313e33bf-4bf0-44dd-9f38-fef4446b75f8" />
+
+<img width="717" height="498" alt="image" src="https://github.com/user-attachments/assets/febcc420-776b-4710-b29b-bfcaa361316f" />
+
 
 ## 📖 Learning Outcomes
 
