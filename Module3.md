@@ -50,11 +50,13 @@ M: no. of tools
 
 ### Add MCP Server to your first Agent:
 - Before MCP: First Agent
+- 
 everything lives in one file - tighty coupled.
 
 <img width="528" height="288" alt="image" src="https://github.com/user-attachments/assets/ac76c83c-e520-44af-81a3-2ab3c8770b4a" />
 
 - After MCP: Two separate files (Client,Server)
+  
   Tools live on a server - any AI app can discover and use them.
   
   <img width="627" height="267" alt="image" src="https://github.com/user-attachments/assets/f6d0b5fa-88b5-4d8f-b8d4-ba478a018a9b" />
