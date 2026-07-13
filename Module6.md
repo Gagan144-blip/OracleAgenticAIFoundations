@@ -73,4 +73,45 @@ finding similar vectores = measuring distance between them
 
 <img width="488" height="320" alt="image" src="https://github.com/user-attachments/assets/54a00868-2841-4c0f-8a32-3dfa2e44fd79" />
 
-### 
+### Oracle AI Database Private Agent Factory:
+Agent factory is a no-code platform that lets both business users and engineers rapidly build,test,and deploy intelligent AI Agents - without writing any code.
+
+<img width="737" height="283" alt="image" src="https://github.com/user-attachments/assets/9a711835-6499-4d0a-8abd-43444cbb1fd1" />
+
+### How Agent Factory Works:
+
+<img width="748" height="249" alt="image" src="https://github.com/user-attachments/assets/e1e615e4-7482-43d2-b4a3-d7cbb3f16060" />
+
+### Two types of Agents:
+
+<img width="774" height="310" alt="image" src="https://github.com/user-attachments/assets/31ca5f22-3aba-4282-84f6-5649b8e72c5d" />
+
+<img width="762" height="317" alt="image" src="https://github.com/user-attachments/assets/ce3387df-5c00-4c65-ad5e-48c462ec42a0" />
+
+### Agent Builder:
+
+<img width="750" height="291" alt="image" src="https://github.com/user-attachments/assets/df3edc1d-d297-4e23-b10b-ebfcd6c4b979" />
+
+### Demo :Private Agent Factory:
+(AI database Private Agent Factory)
+- Pre-built Agents
+- Documentation on how to install Agent Factory ( Oracle Documentation)
+- design Your own agent (Agent builder)
+
+
+### Oracle Autonomous AI Database MCP Server:
+
+<img width="700" height="293" alt="image" src="https://github.com/user-attachments/assets/bc1a7925-268f-422c-9ccc-c945ced6a1e5" />
+
+### WHy a Database-Native MCP Server?
+Same MCP standers, but the server is part of the databse - less to operate, tighter security, faster NL2SQL.
+
+<img width="706" height="307" alt="image" src="https://github.com/user-attachments/assets/2ac4b27e-357b-433b-9690-39de0f903b67" />
+
+### How it Works - Architecture:
+MCP client -> HTTPS endpoint -> Autonomous AI DB -> Select AI Agent tools
+
+
+<img width="721" height="315" alt="image" src="https://github.com/user-attachments/assets/de2a4691-9bcc-4b8d-9f6a-8cd8f8f4da2c" />
+
+Course Completed!!!!!
