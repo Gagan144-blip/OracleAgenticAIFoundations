@@ -91,6 +91,21 @@ Same agent code. Very different amount of work to ship it.
 
 <img width="677" height="278" alt="image" src="https://github.com/user-attachments/assets/f4cdc3dd-a811-4520-84e8-93297cc03ff1" />
 
+<img width="734" height="409" alt="image" src="https://github.com/user-attachments/assets/7b874cb7-8f49-4016-9701-d79d47b3af56" />
+
+### OCI Enterprise AI Agents - Deploy and Scale
+
+#### Two Approaces to OCI Enterprise AI Agents:
+
+<img width="728" height="236" alt="image" src="https://github.com/user-attachments/assets/b23db3a5-722d-4103-89d5-78a1c1816f48" />
+
+### Deploying Agents - From Local Dev to Production:
+You've build yyour agent locally using LangChain or OpeneAI Agents SDK. Now you neet to make it production-ready - availible, scalable, and secure. OCI Generative AI Applications handle the heavy lifting.
+
+
+<img width="745" height="247" alt="image" src="https://github.com/user-attachments/assets/5e0dc5fa-55c0-4143-bd66-54c8bb831562" />
+
+
 
 
 
