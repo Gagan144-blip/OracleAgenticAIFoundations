@@ -87,6 +87,11 @@ Same agent code. Very different amount of work to ship it.
 ### Getting Started with OCI Enterprise AI Agents:
 <img width="768" height="328" alt="image" src="https://github.com/user-attachments/assets/30f1ed0c-24c5-44ce-b39c-1a5104a9cb50" />
 
+#### Setting Up Authentication:
+
+<img width="677" height="278" alt="image" src="https://github.com/user-attachments/assets/f4cdc3dd-a811-4520-84e8-93297cc03ff1" />
+
+
 
 
 
