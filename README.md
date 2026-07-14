@@ -30,67 +30,127 @@ Throughout this course, I learned how to:
 
 # 📚 Course Modules
 
-## Module 1 – Introduction to Agentic AI
 
-Topics Covered
+## 📖 Module 1 – Introduction to AI Agents
 
-- What is Artificial Intelligence?
-- What are Large Language Models (LLMs)?
-- What is an AI Agent?
-- Components of AI Agents
+### Topics Covered
+
+- Introduction to AI Agents
 - Agentic AI
-- AI Agent Architecture
+- Components of AI Agents
+- Agent Architecture
 - AI Agent Workflow
+- Chain of Thought (CoT)
+- ReAct Framework
+- AI Safety & Guardrails
+
+### Hands-on
+
+- Built First AI Agent
+- Explored AI Agent Workflow
 
 ---
 
-## Module 2 – Building AI Agents
+## 📖 Module 2 – LangChain for AI Agents
 
-Topics Covered
+### Topics Covered
 
-- Python Environment Setup
-- Working with APIs
-- OpenAI SDK
-- Groq API (Alternative)
-- Responses API
-- Chat Completions
-- Multi-turn Conversations
-- AI Agent SDK Basics
-
----
-
-## Module 3 – LangChain
-
-Topics Covered
-
-- LangChain Basics
-- Models
-- Prompts
+- Introduction to LangChain
+- LangChain Expression Language (LCEL)
+- Chat Models
 - Messages
-- Tools
+- Prompts
 - Tool Calling
 - Function Calling
-- Creating LangChain Agents
-- Agent Execution Flow
+- Agent Execution
+- Understanding `agent.invoke()`
+
+### Hands-on
+
+- Built LangChain AI Agent
+- Created Custom Python Tools
+- Multi-step Tool Calling
 
 ---
 
-## Module 4 – Model Context Protocol (MCP)
+## 📖 Module 3 – Introduction to Model Context Protocol (MCP)
 
-Topics Covered
+### Topics Covered
 
-- Introduction to MCP
+- What is MCP?
 - MCP Architecture
 - MCP Server
 - MCP Client
+- JSON-RPC
+- stdio Transport
+- HTTP Transport
 - Tool Discovery
-- JSON-RPC Communication
-- Stdio Transport
-- Remote MCP Servers
-- Building Custom MCP Tools
-- LangChain + MCP Integration
+- Local vs Remote MCP Servers
+
+### Hands-on
+
+- Built Custom MCP Math Server
+- Connected LangChain with MCP
+- Dynamic Tool Discovery
 
 ---
+
+## 📖 Module 4 – OpenAI Responses API & Agents SDK
+
+### Topics Covered
+
+- Responses API
+- Chat Completions
+- Multi-turn Conversations
+- Tools
+- Function Calling
+- AI Agents SDK
+- Runner
+- Multi-Agent Systems
+- Agent Handoffs
+- Guardrails
+- Tracing
+
+### Hands-on
+
+- Responses API Examples
+- Multi-turn Chat
+- AI Agents SDK
+- Customer Support Multi-Agent System
+
+---
+
+## 📖 Module 5 – Agentic AI for Enterprises
+
+### Topics Covered
+
+- OCI Enterprise AI Platform
+- Enterprise AI Agents
+- Hosted Models
+- Knowledge Bases
+- Sessions & Memory
+- Logging
+- Sandboxed Tools
+- Enterprise Deployment
+
+### Hands-on
+
+- Explored OCI Enterprise AI Platform
+- Enterprise AI Agent Concepts
+
+---
+
+## 📖 Module 6 – Agentic AI with Oracle AI Database
+
+### Topics Covered
+
+- Oracle AI Database
+- Oracle AI Vector Search
+- Vector Embeddings
+- Private Agent Factory
+- Select AI Agent
+- Autonomous AI Database MCP Server
+- Enterprise Data + AI Agents
 
 ## 💻 Hands-on Projects
 
