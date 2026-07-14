@@ -1,4 +1,4 @@
-# 🤖 Oracle Agentic AI Foundations
+# Oracle Agentic AI Foundations
 
 This repository contains my learning journey, notes, code implementations, and hands-on projects completed during the **Oracle Agentic AI Foundations** course offered by **Oracle University**.
 
