@@ -193,18 +193,18 @@ Features
 ```text
 OracleAgenticAIFoundations/
 │
-├── Module1.md
-├── Module2.md
-├── Module3.md
-├── Module4.md
-│
 ├── AI-Agent/
 │   ├── first_agent.py
 │   ├── first_agent_with_mcp.py
 │   ├── mcp_math_server.py
 │   ├── requirements.txt
 │   └── README.md
-│
+├── Module1.md
+├── Module2.md
+├── Module3.md
+├── Module4.md
+├── Module5.md
+├── Module6.md
 ├── Images/
 │
 ├── Certificate/
